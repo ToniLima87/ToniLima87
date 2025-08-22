@@ -12,5 +12,8 @@
 - Databases: MySQL, SQL 🗄️  
 - DevOps & Cloud: Docker 🐳 | AWS ☁️  
 
+## 🐍 Contribution Snake
+![Snake animation](https://raw.githubusercontent.com/AntonioLima/AntonioLima/output/snake.svg)
+
 ---
 
