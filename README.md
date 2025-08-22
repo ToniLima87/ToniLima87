@@ -13,7 +13,7 @@
 - DevOps & Cloud: Docker 🐳 | AWS ☁️  
 
 ## 🐍 Contribution Snake
-![Snake animation](https://raw.githubusercontent.com/AntonioLima/AntonioLima/output/snake.svg)
+![Snake animation](https://raw.githubusercontent.com/ToniLima87/ToniLima87/output/snake.svg)
 
 ---
 
