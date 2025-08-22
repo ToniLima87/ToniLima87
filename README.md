@@ -14,8 +14,3 @@
 
 ---
 
-
-## 🐍 Contribution Snake
-![Snake animation](https://github.com/AntonioLima/AntonioLima/blob/output/github-contribution-grid-snake.svg)
-
----
